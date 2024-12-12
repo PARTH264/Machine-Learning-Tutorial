@@ -23,10 +23,8 @@ The tutorial is designed to help both beginners and advanced learners understand
 ├── tutorial.pdf                # The tutorial document (if applicable)
 ├── code/                       # Directory containing all code files
 │   └── tutorial_notebook.ipynb # Jupyter Notebook with code and explanations
-├── data/                       # Any datasets used in the project
-│   └── dataset.csv             # Example dataset
-└── figures/                    # Generated plots and images
-    └── visualization.png       # Example figure
+├── data/                       #  datasets used in the project
+│   └── diabetes.csv             # dataset
 ```
 
 ## Getting Started
