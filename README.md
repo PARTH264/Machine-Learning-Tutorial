@@ -1,5 +1,5 @@
 # Machine-Learning-Tutorial
-# Machine Learning Tutorial
+
 
 Welcome to the repository for my individual assignment on machine learning! This project includes a tutorial that explains a specific machine learning technique in detail, with accompanying code, visualizations, and references.
 
@@ -11,16 +11,11 @@ The tutorial is designed to help both beginners and advanced learners understand
 - Python code implementation.
 - Visualizations to explain the results.
 
-## Contents
-- **Tutorial:** [PDF Link or Web Page Link]
-- **Code Files:** Implementation of the technique in Python (e.g., Jupyter Notebook).
-- **Resources:** Links to research papers, blogs, and other references used.
-
 ## Repository Structure
 ```
 ├── LICENSE                     # License file
 ├── README.md                   # This readme file
-├── tutorial.pdf                # The tutorial document (if applicable)
+├── Parth_ML ASS.pdf                # The tutorial document (if applicable)
 ├── code/                       # Directory containing all code files
 │   └── Diabetes_Prediction.ipynb # Jupyter Notebook with code and explanations
 ├── data/                       #  datasets used in the project
