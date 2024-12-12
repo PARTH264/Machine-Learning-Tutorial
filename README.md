@@ -15,7 +15,7 @@ The tutorial is designed to help both beginners and advanced learners understand
 ```
 ├── LICENSE                     # License file
 ├── README.md                   # This readme file
-├── Parth_ML ASS.pdf                # The tutorial document (if applicable)
+├── Parth_ML ASS.pdf                # The tutorial document
 ├── code/                       # Directory containing all code files
 │   └── Diabetes_Prediction.ipynb # Jupyter Notebook with code and explanations
 ├── data/                       #  datasets used in the project
